@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://github.com/julianchoripan/FM-social-links-profile)
-- Live Site URL: [Live site URL](https://julianchoripan.github.io/FM-social-links-profile/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-z5OQ9a9jjL)
+- Live Site URL: [Live site](https://julianchoripan.github.io/FM-social-links-profile/)
 
 ## My process
 
